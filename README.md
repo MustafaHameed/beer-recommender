@@ -10,8 +10,8 @@
 - prep.R prepares data, creates recommender objects
 - server.R has app logic
 - ui.R has front-end appearance
+- testing.R has evaluation of recommender system
 
-
-Go to https://wasencroll.shinyapps.io/beer-recommender/ and see it in action!
+To run locally, download project and run server.R/ui.R or go to https://wasencroll.shinyapps.io/beer-recommender/ and see it in action online!
 
 Visit https://www.alexandercroll.com/site/portfolio/beer-recommender to read a more detailed summary or download the full .pdf paper!
