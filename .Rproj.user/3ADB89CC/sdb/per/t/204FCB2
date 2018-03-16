@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1490279492464.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "204FCB2",
+    "lastKnownWriteTime" : 7596484193276666483,
+    "last_content_update" : 1490279492464,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F350CE95",
+        "caption" : "reviews",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=reviews&cache_key=F350CE95",
+        "displayedObservations" : 1586614,
+        "environment" : "",
+        "object" : "reviews",
+        "preview" : 0,
+        "totalObservations" : 1586614,
+        "variables" : 3
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,10 @@
+name: beer-recommender
+title:
+username:
+account: wasencroll
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223094
+bundleId: 1036274
+url: https://wasencroll.shinyapps.io/beer-recommender/
+when: 1508495455.18186
